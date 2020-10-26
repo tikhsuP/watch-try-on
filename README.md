@@ -1,5 +1,8 @@
 # Augmented Reality: Watch Try-on App
 
+<p align="center">
+  <img src="https://github.com/tikhsuP/GSoC-2020-Project/blob/master/webextension/images/logo.gif" width="300px">
+</p>
 In this project, I have to built an AR Watch Try-On app with **Vuforia** & **Unity** using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
 
 ## Why this project?
