@@ -22,6 +22,6 @@ The amazing features of virtual try on solutions are:
 ## Briefly, here is how you can try it out:
 
 1. Download the [file](apk/Watch%20Try%20On%20App.sln.apk) in your Android device.
-2. Download and print [this](images/target/Image target print.pdf) target image.
+2. Download and print [this](images/target/target.pdf) target image.
 3. Cut the target image out and place it over your wrist.
 4. Scan the image in the app.
