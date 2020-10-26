@@ -17,4 +17,4 @@ The amazing features of virtual try on solutions are:
 
 ## Briefly, here is how you can try it out:
 
-1. Download the [file](Watch%20Try%20On%20App.sln.apk) in your Android device.
+1. Download the [file](watch-try-on/raw/main/Watch%20Try%20On%20App.sln.apk) in your Android device.
