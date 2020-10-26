@@ -1,7 +1,7 @@
 # Augmented Reality: Watch Try-on App
 
 <p align="center">
-  <img src="https://github.com/tikhsuP/GSoC-2020-Project/blob/master/webextension/images/logo.gif" width="300px">
+  <img src="https://github.com/tikhsuP/logos/unity.png" width="300px">
 </p>
 In this project, I have to built an AR Watch Try-On app with **Vuforia** & **Unity** using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
 
@@ -20,7 +20,7 @@ The amazing features of virtual try on solutions are:
 
 ## Briefly, here is how you can try it out:
 
-1. Download the [file](Watch%20Try%20On%20App.sln.apk) in your Android device.
+1. Download the [file](apk/Watch%20Try%20On%20App.sln.apk) in your Android device.
 2. Download and print this target image.
 3. Cut the target image out and place it over your wrist.
 4. Scan the image in the app.
