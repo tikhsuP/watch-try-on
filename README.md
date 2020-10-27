@@ -1,10 +1,10 @@
 # Augmented Reality: Watch Try-on App
 
-<p align="center">
+<!-- <p align="center">
   <img src="logos/unity.png" width="200px">
   <img src="logos/vuforia.png" width="150px">
-</p>
-In this project, I have to built an AR Watch Try-On app with *Vuforia* & *Unity* using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
+</p> -->
+In this project, I have to built an AR Watch Try-On app with <img src="logos/unity.png" width="50px"> & <img src="logos/vuforia.png" width="50px"> using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
 
 ## Why this project?
 
