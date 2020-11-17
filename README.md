@@ -4,7 +4,9 @@
   <img src="logos/unity.png" width="200px">
   <img src="logos/vuforia.png" width="150px">
 </p> -->
-In this project, I have to built an AR Watch Try-On app with <img src="images/logos/unity.png" width="80px"> & <img src="images/logos/vuforia.png" width="65px"> using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
+In this project, I have to built an AR Watch Try-On app with <a href="https://unity.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a> & <img src="images/logos/vuforia.png" width="65px"> using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
 
 ## Why this project?
 
