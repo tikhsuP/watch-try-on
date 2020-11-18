@@ -19,7 +19,15 @@ The amazing features of virtual try on solutions are:
 3. Friendly interface: A friendly UI helps users to have one-tap access to different watches and then view it from different angles.
 4. Easy to use: Using an AR watch is no rocket science. All you have to do is to download and install it to your Android mobile phone and scan the target image. Read more.
 
-### Sounds cool, right? 
+### Sounds cool, right?
+
+## Wanna see how it looks? 
+
+<img src="images/mockups/1.png" width="200px">
+<img src="images/mockups/2.png" width="200px">
+<img src="images/mockups/3.png" width="200px">
+<img src="images/mockups/4.png" width="200px">
+
 
 ## Briefly, here is how you can try it out:
 
