@@ -9,7 +9,7 @@
  </a>
  <img src="images/logos/vuforia.png" width="35px"> -->
  
-In this project, I have to built an AR Watch Try-On app with Unity & Vuforia using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
+In this project, I have built an AR Watch Try-On app with Unity & Vuforia using which you will be able to try realistic virtual watch models on your wrist. You can swap between different watch models & also change the colour of the  watch band to see which one suits the best!
 
 ## Why this project?
 
