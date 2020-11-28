@@ -26,9 +26,9 @@ The amazing features of virtual try on solutions are:
 
 ## Wanna see how it looks? 
 
-<img src="images/mockups/1.png" width="450px">   <img src="images/mockups/4.png" width="450px">
+<img src="images/mockups/1.png" width="470px">   <img src="images/mockups/4.png" width="470px">
 <br/>
-<img src="images/mockups/3.png" width="450px">   <img src="images/mockups/2.png" width="450px">
+<img src="images/mockups/3.png" width="470px">   <img src="images/mockups/2.png" width="470px">
 
 
 ## Briefly, here is how you can try it out:
